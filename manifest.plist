@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://web.ems.siruituclub.com/download/siruituEMS.ipa</string>
+					<string>https://web.rteach.com/download/siruituEMS.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://web.ems.siruituclub.com/download/img57.png</string>
+					<string>https://web.rteach.com/download/img57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://web.ems.siruituclub.com/download/img512.png</string>
+					<string>https://web.rteach.com/download/img512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
